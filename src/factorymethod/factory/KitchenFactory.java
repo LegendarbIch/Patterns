@@ -1,4 +1,4 @@
-package factorymethod;
+package factorymethod.factory;
 
 import factorymethod.food.Dish;
 import factorymethod.food.FoodEnum;

@@ -1,5 +1,6 @@
 package factorymethod;
 
+import factorymethod.factory.KitchenFactory;
 import factorymethod.food.Dish;
 import factorymethod.food.italianfood.ItalianFood;
 import factorymethod.food.italianfood.Osobyko;
