@@ -1,7 +1,7 @@
-package factorymethod.food.italianfood;
+package task1factorymethod.food.italianfood;
 
-import factorymethod.food.Dish;
-import factorymethod.food.FoodEnum;
+import task1factorymethod.food.Dish;
+import task1factorymethod.food.FoodEnum;
 
 public enum ItalianFood implements FoodEnum {
     CARBONARA(new Carbonara()),

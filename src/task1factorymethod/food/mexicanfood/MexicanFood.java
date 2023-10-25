@@ -1,8 +1,7 @@
-package factorymethod.food.mexicanfood;
+package task1factorymethod.food.mexicanfood;
 
-import factorymethod.food.Dish;
-import factorymethod.food.FoodEnum;
-import factorymethod.food.asianfood.Ramen;
+import task1factorymethod.food.Dish;
+import task1factorymethod.food.FoodEnum;
 
 public enum MexicanFood implements FoodEnum {
     KEBAB(new Kebab()),

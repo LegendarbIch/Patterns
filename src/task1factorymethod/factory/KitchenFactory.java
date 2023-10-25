@@ -1,7 +1,7 @@
-package factorymethod;
+package task1factorymethod.factory;
 
-import factorymethod.food.Dish;
-import factorymethod.food.FoodEnum;
+import task1factorymethod.food.Dish;
+import task1factorymethod.food.FoodEnum;
 
 public class KitchenFactory {
     public static Dish cook(FoodEnum foodEnum) {

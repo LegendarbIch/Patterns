@@ -1,0 +1,6 @@
+package task1factorymethod.food.asianfood;
+
+import task1factorymethod.food.Dish;
+
+public class Sushi extends Dish {
+}

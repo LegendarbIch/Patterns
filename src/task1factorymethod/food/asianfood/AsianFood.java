@@ -1,7 +1,7 @@
-package factorymethod.food.asianfood;
+package task1factorymethod.food.asianfood;
 
-import factorymethod.food.Dish;
-import factorymethod.food.FoodEnum;
+import task1factorymethod.food.Dish;
+import task1factorymethod.food.FoodEnum;
 
 public enum AsianFood implements FoodEnum {
     SUSHI(new Sushi()),
